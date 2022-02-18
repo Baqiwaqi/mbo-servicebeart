@@ -1,0 +1,125 @@
+
+.jumbotron {
+    padding-top: 30px;
+    height: 100px;
+    margin-bottom: 0px;
+    background-color: #F7882F;
+    font-size: 12px;
+    line-height: 1.42857143 !important;
+    letter-spacing: 3px;
+    color: white;
+    border-radius: 0px;
+}
+/*navbar*/
+.navbar {
+    margin-bottom: 0;
+    background-color: #F7882F;
+
+    border: 0;
+    font-size: 12px;
+    line-height: 1.42857143 !important;
+    letter-spacing: 3px;
+    border-radius: 0;
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #f4511e !important;
+    background-color: #fff !important;
+    border-radius: 5px;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+.carousel {
+max-height: 600px;
+}
+.carousel ul li{
+    list-style-type: none;
+}
+.carousel-caption {
+    top: 200px;
+    bottom: auto;
+    line-height: 1.42857143 !important;
+    letter-spacing: 3px;
+    color: white;
+}
+#afspraakbtn{
+    background-color: #cc1a1a;
+    border: 0px;
+}
+#afspraakbtn:hover{
+    background-color: #891111;
+    border: 0px;
+}
+#afspraakbtn2{
+    background-color: #F7882F;
+    border: 0px;
+    margin-left: 200px;
+}
+
+footer{
+    background-color: #f29952;
+    padding: 30px;
+    color: #e8e8e8;
+    line-height: 1.42857143 !important;
+    letter-spacing: 2px;
+    font-size: 12px;
+}
+#breadcrumb {
+    height: 17px;
+    margin: 0;
+}
+.breadcrumb {
+    background-color: #F7882F;
+    font-size: 12px;
+    color: white;
+    padding: 0;
+    border-radius: 0px;
+    padding-left: 50px;
+}
+#servicead{
+    background-color: #F7C331;
+    box-shadow: 2px -1px 33px 0px rgba(135,135,135,1);
+    margin: 10px auto 10px auto;
+    border-radius: 5px;
+    opacity: 0.9;
+}
+#serviceinfo {
+    padding-top: 15px;
+    color: #383838;
+}
+#serviceinfo ul li{
+    list-style-type: none;
+}
+#sidenavinfo{
+    margin-top: 30px;
+    opacity: 0.8;
+}
+#sidenav{
+    padding-top: 15px;
+    padding-left: 35px;
+    background: #dbdbdb;
+
+    border-radius: 5px;
+}
+#sidenav li{
+    padding: 5px;
+    border-bottom: 1px solid #b7b7b7;
+}
+#navinfo{
+    padding: 15px;
+    padding-left: 35px;
+    background: #dbdbdb;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+#text{
+    color: #cc1a1a;
+    text-decoration: underline;
+}
